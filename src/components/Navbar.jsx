@@ -2,6 +2,8 @@
 
 export const Navbar = () => {
   return (
-    <div>Bye</div>
+    <div className="navigation">
+      
+    </div>
   )
 }
